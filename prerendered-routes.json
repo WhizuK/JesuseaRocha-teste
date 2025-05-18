@@ -1,0 +1,13 @@
+{
+  "routes": [
+    "/",
+    "/contato",
+    "/fonte-viva",
+    "/geracao-eleita",
+    "/historia",
+    "/online",
+    "/pastores",
+    "/sementinhas",
+    "/visao"
+  ]
+}
